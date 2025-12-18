@@ -67,6 +67,8 @@ flutter:
     - assets/qualf.jpg
     - assets/Civilisation.jpg
     - assets/fete.jpg
+    - assets/fat.jpg
+    - assets/lefa.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

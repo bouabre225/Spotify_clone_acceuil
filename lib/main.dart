@@ -176,7 +176,7 @@ class ShortcutCard extends StatelessWidget {
             height: 56,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(8),
-              image: const DecorationImage(image: AssetImage('assets/img.jpg')),
+              image: const DecorationImage(image: AssetImage('assets/beyah.jpg')),
             ),
           ),
           const SizedBox(width: 15),
@@ -276,11 +276,11 @@ class Album {
 
 final likedAlbums = [
   Album(title: "BĒYĀH", artist: "Damso", image: "assets/beyah.jpg"),
-  Album(title: "BĒYĀH", artist: "Damso", image: "assets/beyah.jpg"),
+  Album(title: "FATUMATA", artist: "Didi B", image: "assets/fat.jpg"),
   Album(title: "QALF", artist: "Damso", image: "assets/qualf.jpg"),
   Album(title: "QALF", artist: "Damso", image: "assets/qualf.jpg"),
   Album(title: "Feu", artist: "Nekfeu", image: "assets/feu.jpg"),
-  Album(title: "Feu", artist: "Nekfeu", image: "assets/feu.jpg"),
+  Album(title: "BITCH", artist: "Lefa", image: "assets/lefa.jpg"),
 ];
 
 final recentAlbums = [
