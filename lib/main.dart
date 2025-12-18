@@ -284,27 +284,27 @@ final likedAlbums = [
 ];
 
 final recentAlbums = [
-  Album(title: "QALF", artist: "Damso", image: "assets/img.jpg"),
-  Album(title: "Saison 00", artist: "Kerchak", image: "assets/img.jpg"),
-  Album(title: "Feu", artist: "Nekfeu", image: "assets/img.jpg"),
-  Album(title: "BĒYĀH", artist: "Damso", image: "assets/img.jpg"),
+  Album(title: "QALF", artist: "Damso", image: "assets/qualf.png"),
+  Album(title: "Saison 00", artist: "Kerchak", image: "assets/saison00.jpg"),
+  Album(title: "Feu", artist: "Nekfeu", image: "assets/feu.jpg"),
+  Album(title: "BĒYĀH", artist: "Damso", image: "assets/beyah.jpg"),
   Album(title: "La fête est finie", artist: "Orelsan", image: "assets/img.jpg"),
 ];
 
 final favoriteAlbums = [
-  Album(title: "QALF", artist: "Damso", image: "assets/img.jpg"),
-  Album(title: "Saison 00", artist: "Kerchak", image: "assets/img.jpg"),
-  Album(title: "Feu", artist: "Nekfeu", image: "assets/img.jpg"),
-  Album(title: "BĒYĀH", artist: "Damso", image: "assets/img.jpg"),
+  Album(title: "QALF", artist: "Damso", image: "assets/qualf.png"),
+  Album(title: "Saison 00", artist: "Kerchak", image: "assets/saison00.jpg"),
+  Album(title: "Feu", artist: "Nekfeu", image: "assets/feu.jpg"),
+  Album(title: "BĒYĀH", artist: "Damso", image: "assets/beyah.jpg"),
   Album(title: "La fête est finie", artist: "Orelsan", image: "assets/img.jpg"),
 ];
 
 final followedArtistsAlbums = [
   Album(title: "Civilisation", artist: "Orelsan", image: "assets/img.jpg"),
-  Album(title: "QALF", artist: "Damso", image: "assets/img.jpg"),
-  Album(title: "Saison 00", artist: "Kerchak", image: "assets/img.jpg"),
-  Album(title: "Feu", artist: "Nekfeu", image: "assets/img.jpg"),
-  Album(title: "BĒYĀH", artist: "Damso", image: "assets/img.jpg"),
+  Album(title: "QALF", artist: "Damso", image: "assets/qualf.jpg"),
+  Album(title: "Saison 00", artist: "Kerchak", image: "assets/saison00.jpg"),
+  Album(title: "Feu", artist: "Nekfeu", image: "assets/feu.jpg"),
+  Album(title: "BĒYĀH", artist: "Damso", image: "assets/bayah.jpg"),
   Album(title: "La fête est finie", artist: "Orelsan", image: "assets/img.jpg"),
 ];
 
